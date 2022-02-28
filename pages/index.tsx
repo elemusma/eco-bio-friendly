@@ -14,7 +14,7 @@ const Home: NextPage = () => {
       <Head>
         <title>Eco Bio Friendly</title>
         <meta name="description" content="Eco bio friendly helps everyone safe the world." />
-        <meta property="og:image" content="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=800&q=80"/>
+        <meta property="og:image" content="/images/Eco-Bio-Friendly.jpg"/>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
